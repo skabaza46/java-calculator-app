@@ -2,4 +2,4 @@
 Simple GUI Calculator App Written in Java
 
 
-![Java GUI Calculator](src/myCalc/java-calculator-app.png "Simple Java GUI Calculator").
+<img src="src/myCalc/java-calculator-app.png" alt="Simple Java Calculator APP" style="height: 550px; width:400px;"/>
